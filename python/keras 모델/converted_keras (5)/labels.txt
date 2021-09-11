@@ -1,0 +1,4 @@
+0 Can
+1 Plastic
+2 General Waste
+3 Empty
